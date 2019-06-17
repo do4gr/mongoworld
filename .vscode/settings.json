@@ -1,0 +1,3 @@
+{
+    "typescript.tsdk": "./a-naive/node_modules/typescript/lib"
+}
